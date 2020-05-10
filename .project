@@ -34,10 +34,5 @@
 			<type>1</type>
 			<locationURI>PARENT-1-PROJECT_LOC/dbn_ajax/WebContent/js/jquery-3.4.1.min.js</locationURI>
 		</link>
-		<link>
-			<name>WebContent/WEB-INF/lib/mysql-connector-java-5.1.47.jar</name>
-			<type>1</type>
-			<locationURI>PARENT-1-PROJECT_LOC/dbn_ajax/WebContent/WEB-INF/lib/mysql-connector-java-5.1.47.jar</locationURI>
-		</link>
 	</linkedResources>
 </projectDescription>
