@@ -14,7 +14,7 @@ public class UserRegisterCheckServlet extends HttpServlet {
 
 	@Override
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		System.out.println("UserRegisterServlet - doPost()");
+		System.out.println("UserRegisterCheckServlet - doPost()");
 		request.setCharacterEncoding("UTF-8");
 		response.setContentType("text/html;charset=UTF-8");
 		String userID = request.getParameter("userID");
